@@ -1,0 +1,46 @@
+body{
+	background-color:white;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:20px
+	padding-right:20px;
+}
+h1{
+	text-align: center;
+	color:purple;
+	font-size:32px;
+}
+div.information{
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	border-radius:5px;
+	background-color:silver;
+}
+#证件照{
+	float:left;
+}
+div.information-end{
+	clear:both;
+}
+p{
+	color:black;
+	font-size:13px;
+	margin-left:auto: 
+	margin-right:auto;
+}
+table,th.td{
+	border:1px solid blue;
+}
+h2{
+	color:red;
+	font-size:16px;
+}
+h3{
+	color:black;
+	font-size:15px;
+}
+img{
+	width:300px
+}
